@@ -1,3 +1,5 @@
 # GLM
+We provide checkpoints for four types of pretrained models. You can access them via the following Google Drive links
 
-All checkpoints of pre-trained models are https://drive.google.com/drive/folders/1asHqVVQO8yKzECL4iSSrKQFcOQGUb1nV?usp=sharing
+ pretrained_models
+<a href="https://drive.google.com/drive/folders/1asHqVVQO8yKzECL4iSSrKQFcOQGUb1nV?usp=sharing" target="_blank">pretrained_models</a>
